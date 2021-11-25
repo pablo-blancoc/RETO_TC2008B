@@ -13,3 +13,5 @@ pip install -r requierements.txt
 
 2. Abrir el archivo ```ìndex.html``` dentro de **VSCODE**, y haciendo uso del plugin *live server*, correrlo en servidor local sobre un puerto. De esta manera, se va a correr y se van a poder hacer la ingesta de todos los archivos necesarios para poder correr el modelo.
 
+<img src="./model.gif" />
+
